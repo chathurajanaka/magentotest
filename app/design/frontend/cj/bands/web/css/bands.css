@@ -1,0 +1,16 @@
+.rating-summary .rating-result:before {
+    font-size: 27px;
+    height: 27px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    content: '●' '●' '●' '●' '●';
+}
+
+.rating-summary .rating-result>span:before {
+    color: gold;
+    font-size: 27px;
+    height: 27px;
+    letter-spacing: 2px;
+    line-height: 26px;
+    content: '●' '●' '●' '●' '●';
+}
